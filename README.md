@@ -20,10 +20,12 @@ In this code is used FFMPEG and EXIFTOOL.
 #FFMPEG: https://github.com/FFmpeg/FFmpeg
 
 #EXIFTOOL: https://github.com/exiftool/exiftool
+
 ![image](https://github.com/RE-MO-SH/Media-compressor/assets/137638879/062ff3da-cdb2-4f1b-b449-106364822ab5)
+
 
 
 
 DOWNLOAD:
 
-Download Converter.exe in upper box or https://github.com/RE-MO-SH/Simple-GUI-FFMPEG/raw/main/Converter.exe.
+Download Media Compressor.exe in upper box or [Download]https://raw.githubusercontent.com/RE-MO-SH/Media-compressor/main/Media%20Compressor.exe.
