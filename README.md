@@ -28,4 +28,4 @@ In this code is used FFMPEG and EXIFTOOL.
 
 DOWNLOAD:
 
-Download Media Compressor.exe in upper box or [Download]([[Download](https://raw.githubusercontent.com/RE-MO-SH/Media-compressor/main/Media%20Compressor.exe)](https://raw.githubusercontent.com/RE-MO-SH/Media-compressor/main/Media%20Compressor.exe)).
+Download Media Compressor.exe in upper box or [[Download]([[Download](https://raw.githubusercontent.com/RE-MO-SH/Media-compressor/main/Media%20Compressor.exe)](https://raw.githubusercontent.com/RE-MO-SH/Media-compressor/main/Media%20Compressor.exe))](https://raw.githubusercontent.com/RE-MO-SH/Media-compressor/main/Media%20Compressor.exe).
