@@ -20,7 +20,8 @@ In this code is used FFMPEG and EXIFTOOL.
 #FFMPEG: https://github.com/FFmpeg/FFmpeg
 
 #EXIFTOOL: https://github.com/exiftool/exiftool
-![APP](https://github.com/RE-MO-SH/Simple-GUI-FFMPEG/assets/137638879/77ea5bd5-0bb0-4e5d-931d-34a86bef9c8f)
+![image](https://github.com/RE-MO-SH/Media-compressor/assets/137638879/062ff3da-cdb2-4f1b-b449-106364822ab5)
+
 
 
 DOWNLOAD:
